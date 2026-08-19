@@ -1,4 +1,3 @@
-import { initNotes } from "./features/notes/notes.js";
 // StudyDrop modular bootstrap.
 // Firebase is initialized first; feature scripts then load in dependency order.
 async function loadScript(src) {
@@ -65,7 +64,3 @@ if (document.readyState === "loading") {
 } else {
   bootStudyDrop();
 }
-
-
-// StudyDrop Notes
-initNotes();
