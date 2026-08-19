@@ -1,0 +1,9 @@
+{
+  "name": "studydrop",
+  "version": "3.0.0",
+  "private": true,
+  "description": "StudyDrop modular frontend with Firebase backend and no AI services",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
