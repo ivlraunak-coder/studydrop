@@ -1,9 +1,0 @@
-{
-  "name": "studydrop",
-  "version": "2.0.0",
-  "private": true,
-  "description": "StudyDrop frontend with Firebase backend and no AI services",
-  "scripts": {
-    "dev": "vercel dev"
-  }
-}
